@@ -1,0 +1,5 @@
+kivy
+kivy.deps.sdl2
+kivy.deps.glew
+kivy.deps.angle
+pygame
